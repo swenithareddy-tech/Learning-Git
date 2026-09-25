@@ -1,3 +1,4 @@
 # Learning Git
-## from FreeCodeCamp
-git vs github
+## from FreeCodeCamp.org
+### youtube
+git and github

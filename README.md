@@ -1,3 +1,3 @@
-#LearningGit
-##from-FreeCodeCamp
+# Learning Git
+## from FreeCodeCamp
 git vs github
